@@ -1,4 +1,4 @@
-# [1. Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/7K6Q5NM8DFPT)
+# [1. Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/7K6Q5NM8DFPT)
 <img src="images/GoogleCert.png" width="500">
 
 # [2. FreeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/#data-analysis-with-python-course)
