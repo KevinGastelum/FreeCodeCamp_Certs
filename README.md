@@ -1,4 +1,4 @@
-# [1. UC Davis - SQL for Data Science Certificate](https://www.coursera.org/account/accomplishments/certificate/KAUTN3AW63YZ)
+# [1. UC Davis - SQL for Data Science Certificate](https://www.coursera.org/account/accomplishments/verify/KAUTN3AW63YZ)
 <img src="images/sql_cert.png" width="500">
 
 # [2. Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/7K6Q5NM8DFPT)
