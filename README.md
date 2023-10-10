@@ -13,3 +13,30 @@
 
 # [5. AWS Data Analytics Fundamentals](https://explore.skillbuilder.aws/learn/course/44/data-analytics-fundamentals)
 <img src="images/AWS_Cert.png" width="500">
+
+
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- --><!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
